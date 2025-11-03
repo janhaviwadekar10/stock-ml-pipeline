@@ -1,5 +1,6 @@
 **Smart Stock Screener**
-Pulls stock data, engineers a few no-nonsense features, and trains a model to guess the next 30-day return. Then it ranks the tickers and spits out some visuals so you can sanity-check the story.
+
+This project implements a stock screening pipeline that predicts 30-day equity returns using Python, yfinance, and scikit-learn. It engineers technical indicators (moving averages, volatility), trains a Random Forest model, ranks tickers based on predicted performance, and generates visualizations to support data-driven analysis.
 
 **What this repo does:**
 * pulls stock data using yfinance
