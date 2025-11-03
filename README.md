@@ -15,6 +15,7 @@ This project implements a stock screening pipeline that predicts 30-day equity r
 * "visualize_and_analyze.py" - generate plots and clustering diagnostics
 
 **Install deps:**
+
 pip install -r requirements.txt
 
 **Run:**
